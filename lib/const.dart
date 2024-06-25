@@ -1,0 +1,4 @@
+String host = 'http://127.0.0.1:18622';
+
+String licence =
+    "t01898AUAAHwbyZrelOUBdGiAtCxARFywAfWW/TC1uJwCHzcFYM3zdP9QytOf4eXM66tFqvmGP0wKd1lX9hIkVTlXQKhGpQyvX042cGp9p0p9Jxo4+cgpEvMwrLvd5XlpAhfgnQHdj8MOoATWWk7Ap99qgwfQA9QB1KsBHnC7iuvPp5wDUn79Z0OTkw2cWt9ZBqSOEw2cfOScAzIE6cZ5teMaEJQn5wDQA/QWwHaRXQIiZ4AeoBcAkdHM4gRraCs/";
